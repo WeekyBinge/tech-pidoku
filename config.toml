@@ -1,0 +1,24 @@
+baseURL = '/'
+languageCode = 'en-us'
+title = 'Pidoku'
+theme = 'simple-style'
+[params]
+subtitle = ""
+favicon = "/img/favicon.ico"
+githubUrl = "https://github.com/<your-name>/<site-proj-name>/"
+referrer = "always"
+author = "Ritesh Sonawane"
+description = "..."
+keywords = "..."
+googleSiteVerification = "<google-site-verification-code>"
+dateFormat = "2 Jan  2006"  # see: https://gohugo.io/functions/format/#gos-layout-string
+externalLinkIcon = true
+externalLinkNewWindow = true
+[author]
+name = "Ritesh Sonawane"
+homepage = "https://pidoku.co.in"
+[menus]
+  [[menus.main]]
+    name = 'About me'
+    url = 'https://riteshsonawane.com'
+    weight = 10
