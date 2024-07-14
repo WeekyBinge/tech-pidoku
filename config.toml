@@ -15,7 +15,7 @@ dateFormat = "2 Jan  2006"  # see: https://gohugo.io/functions/format/#gos-layou
 externalLinkIcon = true
 externalLinkNewWindow = true
 [author]
-name = "Ritesh Sonawane"
+name = "Ritesh Sonawane "
 homepage = "https://pidoku.co.in"
 [menus]
   [[menus.main]]
