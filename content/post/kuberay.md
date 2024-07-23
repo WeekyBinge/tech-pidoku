@@ -1,6 +1,6 @@
 ---
 author: Ritesh Sonawane
-title: KubeRay Ray on Kuberntes
+title: KubeRay Ray on Kubernetes
 date: 2024-05-24 
 description: Run Ray on Kubernetes
 tag: kubernetes, talos, operating-system 
